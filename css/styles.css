@@ -1010,9 +1010,9 @@ img {
     width: 1158px;
     padding: 0 15px;
   }
-  .header {
+  /* .header {
     padding: 0 156px;
-  }
+  } */
   .menu-open-btn {
     display: none;
   }
